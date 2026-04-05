@@ -13,7 +13,7 @@
       <link>http://localhost:1313/post1/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post1/</guid>
-      <description>&lt;p&gt;This is another section of my website where I share more information about my work and ideas.&lt;/p&gt;&#xA;&lt;p&gt;I am continuously improving my content to make it more useful and engaging for visitors. This updated version reflects my progress and learning as I build and develop my website further.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is my post1 website&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
